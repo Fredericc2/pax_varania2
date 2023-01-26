@@ -1,0 +1,25 @@
+state = {
+	id = 23
+	name = "STATE_23"
+	manpower = 1549700
+	state_category = rural
+
+	history = {
+		owner = EFS
+		victory_points = {
+			7459 5
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = EFS
+	}
+
+	provinces = {
+		7459 7469 7475 7395 7316 5424 7396 7317 7409
+	}	
+	buildings_max_level_factor = 1.000
+}

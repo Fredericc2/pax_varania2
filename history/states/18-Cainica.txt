@@ -1,0 +1,25 @@
+state = {
+	id = 18
+	name = "STATE_18"
+	manpower = 729000
+	state_category = rural
+
+	history = {
+		owner = LUT
+		victory_points = {
+			8554 5
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = LUT
+	}
+
+	provinces = {
+	8554 8497 8468 8618 5247 8591 2897 8528
+	}
+	buildings_max_level_factor = 1.000
+}

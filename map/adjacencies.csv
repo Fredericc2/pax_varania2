@@ -1,0 +1,4 @@
+From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
+-1;-1;;-1;-1;-1;-1;-1;-1
+
+7768;3986;sea;12824;1124;1192;1128;1192;VARANIA_CANAL;Varania Canal

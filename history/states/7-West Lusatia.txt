@@ -1,0 +1,26 @@
+state = {
+	id = 7
+	name = "STATE_7"
+	manpower = 1820000
+	state_category = city
+
+	history = {
+		owner = WLU
+		victory_points = {
+			7585 20
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = WLU
+	}
+
+	provinces = {
+	7585 2466 7615 7476 7489 7502 7567 4351 2160 1330 7555 7724
+	}
+
+	buildings_max_level_factor = 1.000
+}

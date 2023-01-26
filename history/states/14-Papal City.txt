@@ -1,0 +1,25 @@
+state = {
+	id = 14
+	name = "STATE_14"
+	manpower = 138000
+	state_category = city
+
+	history = {
+		owner = SKT
+		victory_points = {
+			8093 35
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = SKT
+	}
+
+	provinces = {
+	8093
+	}
+	buildings_max_level_factor = 1.000
+}

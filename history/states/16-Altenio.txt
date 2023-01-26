@@ -1,0 +1,25 @@
+state = {
+	id = 16
+	name = "STATE_16"
+	manpower = 626000
+	state_category = town
+
+	history = {
+		owner = FSV
+		victory_points = {
+			7847 5
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = FSV
+	}
+
+	provinces = {
+	7847 7917 7771 7790 7770
+	}
+	buildings_max_level_factor = 1.000
+}

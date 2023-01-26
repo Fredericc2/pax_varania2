@@ -1,0 +1,297 @@
+﻿focus_tree = {
+	id = varanian_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = VAR
+		}
+	
+	default = no
+	
+	continuous_focus_position = { x = 50 y = 1000 }
+
+	focus = {
+		id = gwb_death
+		icon = GFX_goal_gwb_death
+		x = 0
+		y = 1
+		#relative_position_id = revolt_aftermath
+		
+		available = {
+			NOT = { is_in_faction_with = JAP }
+			NOT = { has_country_flag = britain_enforced_our_loyalty }
+		}		
+		bypass = {
+		}
+		
+		cost = 2
+		#prerequisite = { focus = revolt_aftermath }
+
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			
+		}
+				ai_will_do = {
+		}
+	}
+	
+	focus = {
+		id = frederick_coronation
+		icon = GFX_goal_frederick_coronation
+		x = 0
+		y = 1
+		relative_position_id = gwb_death
+		
+		available = {
+			NOT = { is_in_faction_with = JAP }
+			NOT = { has_country_flag = britain_enforced_our_loyalty }
+		}		
+		bypass = {
+		}
+		
+		cost = 8
+		prerequisite = { focus = gwb_death }
+
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			
+		}
+				ai_will_do = {
+		}
+	}
+		focus = {
+		id = revolt_aftermath
+		icon = GFX_goal_frederick_coronation
+		x = 15
+		y = 0
+		#relative_position_id = gwb_death
+		
+		available = {
+			NOT = { is_in_faction_with = JAP }
+			NOT = { has_country_flag = britain_enforced_our_loyalty }
+		}		
+		bypass = {
+		}
+		
+		cost = 8
+		#prerequisite = { focus = gwb_death }
+
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			
+		}
+				ai_will_do = {
+		}
+	}
+		focus = {
+		id = socialism_crackdown
+		icon = GFX_goal_frederick_coronation
+		x = 0
+		y = 1
+		relative_position_id = revolt_aftermath
+		
+		available = {
+			NOT = { is_in_faction_with = JAP }
+			NOT = { has_country_flag = britain_enforced_our_loyalty }
+		}		
+		bypass = {
+		}
+		
+		cost = 8
+		#prerequisite = { focus = gwb_death }
+
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			
+		}
+				ai_will_do = {
+		}
+	}
+		focus = {
+		id = jagd_exile
+		icon = GFX_goal_frederick_coronation
+		x = 0
+		y = 1
+		relative_position_id = socialism_crackdown
+		
+		available = {
+			NOT = { is_in_faction_with = JAP }
+			NOT = { has_country_flag = britain_enforced_our_loyalty }
+		}		
+		bypass = {
+		}
+		
+		cost = 8
+		#prerequisite = { focus = gwb_death }
+
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			
+		}
+				ai_will_do = {
+		}
+	}
+		focus = {
+		id = varania_skeleton_4
+		icon = GFX_goal_frederick_coronation
+		x = 0
+		y = 1
+		relative_position_id = jagd_exile
+		
+		available = {
+			NOT = { is_in_faction_with = JAP }
+			NOT = { has_country_flag = britain_enforced_our_loyalty }
+		}		
+		bypass = {
+		}
+		
+		cost = 8
+		#prerequisite = { focus = gwb_death }
+
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			
+		}
+				ai_will_do = {
+		}
+	}
+		focus = {
+		id = varania_skeleton_5
+		icon = GFX_goal_frederick_coronation
+		x = 0
+		y = 1
+		relative_position_id = varania_skeleton_4
+		
+		available = {
+			NOT = { is_in_faction_with = JAP }
+			NOT = { has_country_flag = britain_enforced_our_loyalty }
+		}		
+		bypass = {
+		}
+		
+		cost = 8
+		#prerequisite = { focus = gwb_death }
+
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			
+		}
+				ai_will_do = {
+		}
+	}
+		focus = {
+		id = varania_skeleton_6
+		icon = GFX_goal_frederick_coronation
+		x = 0
+		y = 1
+		relative_position_id = varania_skeleton_5
+		
+		available = {
+			NOT = { is_in_faction_with = JAP }
+			NOT = { has_country_flag = britain_enforced_our_loyalty }
+		}		
+		bypass = {
+		}
+		
+		cost = 8
+		#prerequisite = { focus = gwb_death }
+
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			
+		}
+				ai_will_do = {
+		}
+	}
+		focus = {
+		id = varania_skeleton_7
+		icon = GFX_goal_frederick_coronation
+		x = 0
+		y = 1
+		relative_position_id = varania_skeleton_6
+		
+		available = {
+			NOT = { is_in_faction_with = JAP }
+			NOT = { has_country_flag = britain_enforced_our_loyalty }
+		}		
+		bypass = {
+		}
+		
+		cost = 8
+		#prerequisite = { focus = gwb_death }
+
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			
+		}
+				ai_will_do = {
+		}
+	}
+		focus = {
+		id = varania_skeleton_8
+		icon = GFX_goal_frederick_coronation
+		x = 30
+		y = 0
+		#relative_position_id = varania_skeleton_7
+		
+		available = {
+			NOT = { is_in_faction_with = JAP }
+			NOT = { has_country_flag = britain_enforced_our_loyalty }
+		}		
+		bypass = {
+		}
+		
+		cost = 8
+		#prerequisite = { focus = gwb_death }
+
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			
+		}
+				ai_will_do = {
+		}
+	}
+}		

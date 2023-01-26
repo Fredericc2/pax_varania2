@@ -1,0 +1,25 @@
+state = {
+	id = 8
+	name = "STATE_8"
+	manpower = 825000
+	state_category = town
+
+history = {
+		owner = ELU
+		victory_points = {
+			7639 10
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = ELU
+	}
+
+	provinces = {
+	7639 702 7460 2872 7687 7704 3279 7643 7515 7503 2403 3530 7568 5877
+	}
+	buildings_max_level_factor = 1.000
+}

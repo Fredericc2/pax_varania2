@@ -1,0 +1,22 @@
+state = {
+	id = 37
+	name = "STATE_37"
+	manpower = 138000
+	state_category = pastoral
+
+	history = {
+		owner = ESB
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = ESB
+	}
+
+	provinces = {
+	7212 7141 3202 7238 7197
+	}
+	buildings_max_level_factor = 1.000
+}

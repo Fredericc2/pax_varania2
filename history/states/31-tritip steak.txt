@@ -1,0 +1,22 @@
+state = {
+	id = 31
+	name = "STATE_31"
+	manpower = 138000
+	state_category = rural
+
+	history = {
+		owner = ESB
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = ESB
+	}
+
+	provinces = {
+	5480 6914 4869 6964
+	}
+	buildings_max_level_factor = 1.000
+}

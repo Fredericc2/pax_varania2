@@ -1,0 +1,24 @@
+state = {
+	id = 29
+	name = "STATE_29"
+	manpower = 577300
+
+	history = {
+		owner = WMC
+		victory_points = {
+			8784 15
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = WMC
+	}
+
+	provinces = {
+		5070 8474 578 5431 8573 4373 8648 8713 8784
+	}	
+	buildings_max_level_factor = 1.000
+}

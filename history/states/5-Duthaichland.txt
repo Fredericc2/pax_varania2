@@ -1,0 +1,26 @@
+state = {
+	id = 5
+	name = "STATE_5"
+	manpower = 376000
+	state_category = tiny_island
+
+	history = {
+		owner = KIL
+		victory_points = {
+			8636 2
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = KIL
+	}
+
+	provinces = {
+	8636
+
+	}
+	buildings_max_level_factor = 1.000
+}
