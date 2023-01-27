@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = LUT
 		victory_points = {
-			8554 5
+			3226 5
 		}
 		buildings = {
 			infrastructure = 5
@@ -19,7 +19,7 @@ state = {
 	}
 
 	provinces = {
-	8554 8497 8468 8618 5247 8591 2897 8528
+	3226 9900 1756 3767 2801 1643 3552 1559
 	}
 	buildings_max_level_factor = 1.000
 }

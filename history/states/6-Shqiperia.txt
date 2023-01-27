@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = SQP
 		victory_points = {
-			8455 15
+			1640 15
 		}
 		buildings = {
 			infrastructure = 5
@@ -19,7 +19,7 @@ state = {
 	}
 
 	provinces = {
-		8455 8379 8359 955 3253 8506 8527 8423
+		1640 10241 4935 3220 5558 10569 3122
 	}
 	buildings_max_level_factor = 1.000
 }

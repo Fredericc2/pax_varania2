@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = FSV
 		victory_points = {
-			7847 5
+			11335 5
 		}
 		buildings = {
 			infrastructure = 5
@@ -19,7 +19,7 @@ state = {
 	}
 
 	provinces = {
-	7847 7917 7771 7790 7770
+	11335 10970 6863 5487
 	}
 	buildings_max_level_factor = 1.000
 }

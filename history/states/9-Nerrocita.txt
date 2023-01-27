@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = NCT
 		victory_points = {
-			7660 2
+			856 2
 		}
 		buildings = {
 			infrastructure = 5
@@ -19,7 +19,7 @@ state = {
 	}
 
 	provinces = {
-	7660 5327 7703 7758 7769 7723 7813 7655 7722 4915 7748 5133 7831 2167 4868 7721 7820 5234
+	788 7856 6043 1504 1447 1064 1380 1035 1382 1484 856 1066 1094 1270 790 1095 845
 	}
 	buildings_max_level_factor = 1.000
 }

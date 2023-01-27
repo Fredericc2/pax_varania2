@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = SKT
 		victory_points = {
-			8093 35
+			5087 35
 		}
 		buildings = {
 			infrastructure = 5
@@ -19,7 +19,7 @@ state = {
 	}
 
 	provinces = {
-	8093
+	5087
 	}
 	buildings_max_level_factor = 1.000
 }

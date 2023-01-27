@@ -16,7 +16,7 @@ state = {
 	}
 
 	provinces = {
-	5495 7789 2887 7797 7720 1281
+	5495 7789 2887 7720 1281
 	}
 	buildings_max_level_factor = 1.000
 }

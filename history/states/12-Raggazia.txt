@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = RAG
 		victory_points = {
-			2324 30
+			12574 30
 		}
 		buildings = {
 			infrastructure = 5
@@ -19,7 +19,7 @@ state = {
 	}
 
 	provinces = {
-	2324 8295 8139 8035 7944 3230 7972 8036 3177 8224 8140 8056 2875 8117
+	12574 890 1121 8874
 	}
 	buildings_max_level_factor = 1.000
 }
