@@ -5,7 +5,7 @@ state = {
 	state_category = town
 
 	history = {
-		owner = FSV
+		owner = VAR
 		victory_points = {
 			11335 5
 		}
@@ -15,7 +15,7 @@ state = {
 			industrial_complex = 3
 			air_base = 4
 		}
-		add_core_of = FSV
+		add_core_of = VAR
 	}
 
 	provinces = {

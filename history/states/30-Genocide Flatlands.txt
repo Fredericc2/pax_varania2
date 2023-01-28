@@ -1,12 +1,13 @@
 state = {
 	id = 30
 	name = "STATE_30"
-	manpower = 623500
+	manpower = 423500
+	state_category = town
 
 	history = {
-		owner = WMC
+		owner = ESB
 		victory_points = {
-			3669 5
+			4629 5
 		}
 		buildings = {
 			infrastructure = 5
@@ -14,11 +15,11 @@ state = {
 			industrial_complex = 3
 			air_base = 4
 		}
-		add_core_of = WMC
+		add_core_of = ESB
 	}
 
 	provinces = {
-		3669 5948 8030 8114 8127 8029 8064 3533 5517 8276
+		4629 1819 2899 2002 5315 8208
 	}	
 	buildings_max_level_factor = 1.000
 }

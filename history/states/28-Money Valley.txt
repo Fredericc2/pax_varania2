@@ -1,22 +1,22 @@
 state = {
 	id = 28
 	name = "STATE_28"
-	manpower = 558200
-	state_category = large_city
+	manpower = 258200
+	state_category = town
 
 	history = {
-		owner = WMC
+		owner = ESB
 		buildings = {
 			infrastructure = 5
 			arms_factory = 1
 			industrial_complex = 3
 			air_base = 4
 		}
-		add_core_of = WMC
+		add_core_of = ESB
 	}
 
 	provinces = {
-		8065 7979 2829 8007 3945 1496 7865
+		3957 9009 2216 3243 1729 7944 2080 4812 5251 2770
 	}	
 	buildings_max_level_factor = 1.000
 }

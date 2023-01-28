@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = ESB
 		victory_points = {
-			3024 30
+			11471 30
 		}
 		buildings = {
 			infrastructure = 5
@@ -19,7 +19,7 @@ state = {
 	}
 
 	provinces = {
-	3024 3995 2075 6978 6920 2140 6880
+	11471 11280 10021 9857 9973 11421 6154
 	}
 	buildings_max_level_factor = 1.000
 }
