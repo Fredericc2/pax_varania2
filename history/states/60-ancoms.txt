@@ -1,0 +1,25 @@
+state = {
+	id = 60
+	name = "STATE_60"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		owner = WSC
+		victory_points = {
+			5447 10
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = WSC
+	}
+
+	provinces={
+		5447 5456 5475 5607 5961 6196 6496 6537 6877 7091 7536 7798 8754 8762 8858 9041 9134 9451 9467 9601 9755 9947 10172 10485 10542 10595 10628 10670 10713 10819 10911 10923 10926 11027 11053 11347 11581 11630 11940 12116 12513 
+	}
+	buildings_max_level_factor = 1.000
+}

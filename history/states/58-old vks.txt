@@ -1,0 +1,22 @@
+state = {
+	id = 58
+	name = "STATE_58"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		owner = VKS
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = VKS
+	}
+	
+	provinces = {
+		2428 2709 3616 5584 5832 6067 6685 6821 7270 7333 7578 8380 8703 9073 9074 9606 9767 10764 11028 11281 11345 11459 11485 11497 11634 12021 
+	}
+	buildings_max_level_factor=1.000
+}

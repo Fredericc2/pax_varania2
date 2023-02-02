@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = GLD
 		victory_points = {
-			7659 30
+			11230 30
 		}
 		buildings = {
 			infrastructure = 5
@@ -19,7 +19,7 @@ state = {
 	}
 
 	provinces = {
-	7612 7659 7566 3129 5217 7553 4162
+	11230 10831 6217 5972 8651 12413 6171
 	}
 	buildings_max_level_factor = 1.000
 }

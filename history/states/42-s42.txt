@@ -5,18 +5,18 @@ state = {
 	state_category = town
 
 	history = {
-		owner = SSD
+		owner = GLD
 		buildings = {
 			infrastructure = 5
 			arms_factory = 1
 			industrial_complex = 3
 			air_base = 4
 		}
-		add_core_of = SSD
+		add_core_of = GLD
 	}
 
 	provinces = {
-	7780 7737 2267 7601 185 3902 7613 4447 1791
+	12164 5543 6639 6555 12125 6421 5915 10943 5598 11134
 	}
 	buildings_max_level_factor = 1.000
 }

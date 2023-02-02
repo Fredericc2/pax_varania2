@@ -1,22 +1,22 @@
 state = {
-	id = 47
-	name = "STATE_47"
-	manpower = 138000
+	id = 59
+	name = "STATE_59"
 	state_category = town
+	manpower = 792400
 
 	history = {
-		owner = GLD
+		owner = LMK
 		buildings = {
 			infrastructure = 5
 			arms_factory = 1
 			industrial_complex = 3
 			air_base = 4
 		}
-		add_core_of = GLD
+		add_core_of = LMK
 	}
 
-	provinces = {
-	6017 6023 11625 11040 12154 7847
+	provinces={
+		5638 7144 7621 7775 7922 8254 8600 8788 9376 9466 9511 10101 10142 11404 11436 11462 
 	}
 	buildings_max_level_factor = 1.000
 }

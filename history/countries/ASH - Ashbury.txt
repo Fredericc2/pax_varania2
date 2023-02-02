@@ -1,4 +1,4 @@
-capital = 1738
+capital = 9986
 
 # Starting tech
 set_technology = {
@@ -62,9 +62,9 @@ set_politics = {
 
 set_popularities = {
 	democratic = 10
-	fascism = 50
+	fascism = 20
 	communism = 5
-	neutrality = 35
+	neutrality = 65
 }
 
 1946.1.1 = {
@@ -75,10 +75,10 @@ set_popularities = {
 		elections_allowed = no
 	}
 	set_popularities = {
-		democratic = 10
-		fascism = 50
+		democratic = 70
+		fascism = 10
 		communism = 5
-		neutrality = 35
+		neutrality = 15
 	}
 }
 

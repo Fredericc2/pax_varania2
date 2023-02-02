@@ -1,4 +1,4 @@
-capital = 1738
+capital = 4499
 
 # Starting tech
 set_technology = {
@@ -54,31 +54,31 @@ set_convoys = 20
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = democratic
 	last_election = "1946.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	democratic = 10
-	fascism = 50
+	democratic = 70
+	fascism = 10
 	communism = 5
-	neutrality = 35
+	neutrality = 15
 }
 
 1946.1.1 = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = democratic
 		last_election = "1946.1.1"
 		election_frequency = 48
 		elections_allowed = no
 	}
 	set_popularities = {
-		democratic = 10
-		fascism = 50
+		democratic = 70
+		fascism = 10
 		communism = 5
-		neutrality = 35
+		neutrality = 15
 	}
 }
 
