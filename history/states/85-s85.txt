@@ -1,0 +1,25 @@
+state = {
+	id = 85
+	name = "STATE_85"
+	state_category = town
+	manpower = 12000
+
+	history = {
+		owner = ATF
+		victory_points = {
+			4665 10
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = ATF
+	}
+
+	provinces={
+		4665 5215 4861 5161 5231 5020 5235 5110 
+	}
+	buildings_max_level_factor = 1.000
+}
