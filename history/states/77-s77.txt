@@ -1,0 +1,25 @@
+state = {
+	id = 77
+	name = "STATE_77"
+	state_category = town
+	manpower = 12000
+
+	history = {
+		owner = BLH
+		victory_points = {
+			3553 5
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = BLH
+	}
+
+	provinces={
+		3553 3311 3406 3479 1547 1889 3623 3683 2240 1912
+	}
+	buildings_max_level_factor = 1.000
+}
