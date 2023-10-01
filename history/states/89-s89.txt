@@ -1,0 +1,25 @@
+state = {
+	id = 89
+	name = "STATE_89"
+	state_category = town
+	manpower = 12000
+
+	history = {
+		owner = AMA
+		victory_points = {
+			6955 25
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = AMA
+	}
+
+	provinces={
+		10702 7753 8791 9939 6955 9841 8172 10408 
+	}
+	buildings_max_level_factor = 1.000
+}
