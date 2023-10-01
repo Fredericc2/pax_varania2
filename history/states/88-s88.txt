@@ -1,0 +1,25 @@
+state = {
+	id = 88
+	name = "STATE_88"
+	state_category = town
+	manpower = 12000
+
+	history = {
+		owner = ILV
+		victory_points = {
+			4501 15
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = ILV
+	}
+
+	provinces={
+		4473 4522 4501 4526 4484 4519 4533 4486
+	}
+	buildings_max_level_factor = 1.000
+}
