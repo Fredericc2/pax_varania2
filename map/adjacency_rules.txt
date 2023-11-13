@@ -1,0 +1,39 @@
+﻿#Varania Canal
+adjacency_rule =
+{
+	name = "VARANIA_CANAL"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = yes
+	}
+	
+	required_provinces = { 7768 3986 }
+		
+	icon = 7768
+	offset = { 2 0 2 }
+}

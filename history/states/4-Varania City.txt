@@ -1,0 +1,25 @@
+state = {
+	id = 4
+	name = "STATE_4"
+	manpower = 4894000
+	state_category = metropolis
+
+	history = {
+		owner = VAR
+		victory_points = {
+			12541 40
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = VAR
+	}
+
+	provinces = {
+		12541 9668 12530 7649 10712 6726 7020 10055 8626
+	}	
+	buildings_max_level_factor = 1.000
+}

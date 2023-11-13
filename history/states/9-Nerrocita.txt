@@ -1,0 +1,25 @@
+state = {
+	id = 9
+	name = "STATE_9"
+	manpower = 264310
+	state_category = town
+
+	history = {
+		owner = NCT
+		victory_points = {
+			856 2
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = NCT
+	}
+
+	provinces = {
+	788 7856 6043 1504 1447 1064 1380 1035 1382 1484 856 1066 1094 1270 790 1095 845
+	}
+	buildings_max_level_factor = 1.000
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 17
+	name = "STATE_17"
+	manpower = 544000
+	state_category = rural
+
+	history = {
+		owner = SKT
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = SKT
+	}
+
+	provinces = {
+	5189 1604 5042 4593 1671 722
+	}
+	buildings_max_level_factor = 1.000
+}

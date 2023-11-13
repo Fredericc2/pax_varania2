@@ -1,0 +1,18 @@
+bookmarks = {
+	bookmark = {
+		name = "Frederick's Empire"
+		desc = "1949_BOOKMARK_DESC"
+		date = 1949.1.1.12
+		picture = "GFX_1949_start"
+		default_country = "VAR"
+		default = yes
+	
+		"VAR" = {
+			history = "VAR_1949_DESC"
+		}
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

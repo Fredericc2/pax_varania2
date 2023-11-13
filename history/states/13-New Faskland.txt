@@ -1,0 +1,25 @@
+state = {
+	id = 13
+	name = "STATE_13"
+	manpower = 738700
+	state_category = town
+
+	history = {
+		owner = KIL
+		victory_points = {
+			2256 15
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = KIL
+	}
+
+	provinces = {
+	1983 2553 2423 2764 2555 3887 2836 3303 1597 3153 2256
+	}
+	buildings_max_level_factor = 1.000
+}

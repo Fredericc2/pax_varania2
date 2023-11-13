@@ -1,0 +1,25 @@
+state = {
+	id = 10
+	name = "STATE_10"
+	manpower = 774000
+	state_category = rural
+
+	history = {
+		owner = SKT
+		victory_points = {
+			2617 10
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = SKT
+	}
+
+	provinces = {
+	2617 3141 3682 7931 3885 2325 11446 5968 8579 11078
+	}
+	buildings_max_level_factor = 1.000
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 49
+	name = "STATE_49"
+	manpower = 138000
+	state_category = town
+
+	history = {
+		owner = GLD
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = GLD
+	}
+
+	provinces = {
+	6540 10250 10308 5691 9441 8520 7706
+	}
+	buildings_max_level_factor = 1.000
+}

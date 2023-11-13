@@ -1,0 +1,25 @@
+state = {
+	id = 30
+	name = "STATE_30"
+	manpower = 423500
+	state_category = town
+
+	history = {
+		owner = ESB
+		victory_points = {
+			4629 5
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = ESB
+	}
+
+	provinces = {
+		4629 1819 2899 2002 5315 8208
+	}	
+	buildings_max_level_factor = 1.000
+}

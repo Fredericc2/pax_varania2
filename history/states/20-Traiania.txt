@@ -1,0 +1,22 @@
+state = {
+	id = 20
+	name = "STATE_20"
+	manpower = 1230000
+	state_category = town
+
+	history = {
+		owner = VAR
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = VAR
+	}
+
+	provinces = {
+	11431 8998 11489 1466 11538 10277 2182 3851 1634 3519
+	}
+	buildings_max_level_factor = 1.000
+}

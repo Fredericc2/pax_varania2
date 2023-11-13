@@ -1,0 +1,24 @@
+state = {
+	id = 27
+	name = "STATE_27"
+	manpower = 468600
+
+	history = {
+		owner = LMK
+		victory_points = {
+			4499 20
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = LMK
+	}
+
+	provinces = {
+		4499 5450 10315 10464
+	}	
+	buildings_max_level_factor = 1.000
+}

@@ -1,0 +1,25 @@
+state = {
+	id = 11
+	name = "STATE_11"
+		manpower = 2830000
+		state_category = large_city
+		
+	history = {
+		owner = LUT
+		victory_points = {
+			12525 35
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = LUT
+	}
+
+	provinces = {
+	12525 12570 3605 1980 2144 3190 1537 12540 12552 2699 2590 2591 2860 3894 2132 3976
+	}
+	buildings_max_level_factor = 1.000
+}

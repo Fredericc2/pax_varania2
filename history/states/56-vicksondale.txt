@@ -1,0 +1,25 @@
+state = {
+	id = 56
+	name = "STATE_56"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		owner = VKS
+		victory_points = {
+			7472 20
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = VKS
+	}
+
+	provinces = {
+		5602 6037 6040 6048 6143 6200 8379 6264 6625 6701 6720 6795 6817 6832 6987 7081 7110 7126 7172 7197 7242 7250 7268 7307 7472 7488 7651 7938 8121 8197 8251 8359 8780 8842 9208 9342 9439 9582 9634 9717 9840 10086 10127 10143 10157 10324 10373 10874 10962 11098 11196 11247 11417 11454 11603 11687 11719 11911 12440 12494 
+	}	
+	buildings_max_level_factor = 1.000
+}

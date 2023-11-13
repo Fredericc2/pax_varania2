@@ -1,0 +1,25 @@
+state = {
+	id = 76
+	name = "STATE_76"
+	state_category = town
+	manpower = 12000
+
+	history = {
+		owner = BLH
+		victory_points = {
+			787 3
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = BLH
+	}
+
+	provinces={
+		1297 771 761 1384 937 787 1320 12380 8661 8339 1093 982 699 706
+	}
+	buildings_max_level_factor = 1.000
+}

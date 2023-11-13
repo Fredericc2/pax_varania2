@@ -1,0 +1,122 @@
+#reload countrycolors
+
+ELU = {
+	color = rgb { 25 25 115 }
+	color_ui = rgb { 25 25 115 }
+	}
+EFS = {
+	color = rgb { 60 60 60 }
+	color_ui = rgb { 60 60 60 }
+	}
+VAR = {
+	color = rgb { 30 140 50 }
+	color_ui = rgb { 30 140 50 }
+}
+SKT = {
+	color = rgb { 145 100 0 }
+	color_ui = rgb { 145 100 0 }
+}
+WLU = {
+	color = rgb { 25 25 115 }
+	color_ui = rgb { 25 25 115 }
+}
+NCT = {
+	color = rgb { 15 35 15 }
+	color_ui = rgb { 15 35 15 }
+}
+LUT = {
+	color = rgb { 80 125 175 }
+	color_ui = rgb { 80 125 175 }
+}
+KIL = {
+	color = rgb { 80 80 150 }
+	color_ui = rgb { 80 80 150 }
+}
+SQP = {
+	color = rgb { 135 5 5 }
+	color_ui = rgb { 135 5 5 }
+	}
+FSV = {
+	color = rgb { 30 140 50 }
+	color_ui = rgb { 30 140 50 }
+	}
+WMC = {
+	color = rgb { 90 100 115 }
+	color_ui = rgb { 90 100 115 }
+	}
+RAG = {
+	color = rgb { 10 110 60 }
+	color_ui = rgb { 10 110 60 }
+	}
+ESB = {
+	color = rgb { 220 205 15 }
+	color_ui = rgb { 220 205 15 }
+	}
+SSD = {
+	color = rgb { 110 125 85 }
+	color_ui = rgb { 110 125 85 }
+	}
+BLH = {
+	color = rgb { 110 125 85 }
+	color_ui = rgb { 110 125 85 }
+	}
+GLD = {
+	color = rgb { 110 125 85 }
+	color_ui = rgb { 110 125 85 }
+	}
+MSF = {
+	color = rgb { 110 125 85 }
+	color_ui = rgb { 110 125 85 }
+	}
+RVL = {
+	color = rgb { 110 125 85 }
+	color_ui = rgb { 110 125 85 }
+	}
+VKS = {
+	color = rgb { 110 125 85 }
+	color_ui = rgb { 110 125 85 }
+	}
+LMK = {
+	color = rgb { 110 125 85 }
+	color_ui = rgb { 110 125 85 }
+	}
+WSC = {
+	color = rgb { 110 125 85 }
+	color_ui = rgb { 110 125 85 }
+	}
+ASH = {
+	color = rgb { 110 125 85 }
+	color_ui = rgb { 110 125 85 }
+	}
+TFT = {
+	color = rgb { 110 125 85 }
+	color_ui = rgb { 110 125 85 }
+	}
+SKR = {
+	color = rgb { 30 185 235 }
+	color_ui = rgb { 30 185 235 }
+	}
+PRI = {
+	color = rgb { 130 5 60 }
+	color_ui = rgb { 130 5 60 }
+	}
+ATF = {
+	color = rgb { 75 15 15 }
+	color_ui = rgb { 75 15 15 }
+	}
+FDR = {
+	color = rgb { 245 245 175 }
+	color_ui = rgb { 245 245 175 }
+	}
+ODR = {
+	color = rgb { 50 75 200 }
+	color_ui = rgb { 50 75 200 }
+	}
+ILV = {
+	color = rgb { 90 155 225 }
+	color_ui = rgb { 90 155 225 }
+	}
+AMA = {
+	color = rgb { 195 215 85 }
+	color_ui = rgb { 195 215 85 }
+	}

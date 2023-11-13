@@ -1,0 +1,25 @@
+state = {
+	id = 26
+	name = "STATE_26"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		owner = GLD
+		victory_points = {
+			7159 20
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = GLD
+	}
+
+	provinces = {
+		7159 6856 9379 5539 7702 9166 11321 5568
+	}	
+	buildings_max_level_factor = 1.000
+}

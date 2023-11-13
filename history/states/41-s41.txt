@@ -1,0 +1,25 @@
+state = {
+	id = 41
+	name = "STATE_41"
+	manpower = 138000
+	state_category = town
+
+	history = {
+		owner = SSD
+		victory_points = {
+			12258 20
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = SSD
+	}
+
+	provinces = {
+	12258 6053 8295 5442 9924 7973 6234 11248 8865
+	}
+	buildings_max_level_factor = 1.000
+}
