@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = KIL
 		victory_points = {
-			2089 5
+			2686 5
 		}
 		buildings = {
 			infrastructure = 5
@@ -19,7 +19,7 @@ state = {
 	}
 
 	provinces = {
-	2089 8817 8760 8689 8663 4624 8728 5021 8706 8785
+	2686 9948 12262 10844 7797 5937 9685 8573 10556 8627
 	}
 	buildings_max_level_factor = 1.000
 }

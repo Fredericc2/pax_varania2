@@ -1,0 +1,25 @@
+state = {
+	id = 71
+	name = "STATE_71"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		owner = TFT
+		victory_points = {
+			12430 15
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = TFT
+	}
+
+	provinces={
+		12430 817 2059 2064 2827 11703 12360 2780 11327
+	}
+	buildings_max_level_factor = 1.000
+}

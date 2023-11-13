@@ -1,0 +1,22 @@
+state = {
+	id = 67
+	name = "STATE_67"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		owner = ASH
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = ASH
+	}
+
+	provinces={
+		7770 10787 7233 6272 7241 8036 5591
+	}
+	buildings_max_level_factor = 1.000
+}

@@ -1,0 +1,25 @@
+state = {
+	id = 80
+	name = "STATE_80"
+	state_category = town
+	manpower = 12000
+
+	history = {
+		owner = BLH
+		victory_points = {
+			1535 5
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = BLH
+	}
+
+	provinces={
+		1535 2188 3074 1750 3832 1827 1207 1565 2626 2773
+	}
+	buildings_max_level_factor = 1.000
+}

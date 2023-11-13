@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = VAR
 		victory_points = {
-			7768 20
+			12548 20
 		}
 		buildings = {
 			infrastructure = 5
@@ -19,7 +19,7 @@ state = {
 	}
 
 	provinces = {
-		7768 7686 4347 7869
+		12548 11204 12244 6532
 	}	
 	buildings_max_level_factor = 1.000
 }

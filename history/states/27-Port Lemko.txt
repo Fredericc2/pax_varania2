@@ -4,9 +4,9 @@ state = {
 	manpower = 468600
 
 	history = {
-		owner = WMC
+		owner = LMK
 		victory_points = {
-			8343 10
+			4499 20
 		}
 		buildings = {
 			infrastructure = 5
@@ -14,11 +14,11 @@ state = {
 			industrial_complex = 3
 			air_base = 4
 		}
-		add_core_of = WMC
+		add_core_of = LMK
 	}
 
 	provinces = {
-		5071 8259 8343 2523
+		4499 5450 10315 10464
 	}	
 	buildings_max_level_factor = 1.000
 }

@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = EFS
 		victory_points = {
-			2509 10
+			4506 10
 		}
 		buildings = {
 			infrastructure = 5
@@ -19,7 +19,7 @@ state = {
 	}
 
 	provinces = {
-		2509 594 7368 7303 3810 528 7369 7442
+		4506 4482 4540 4511 4487 4457 4500 4539
 	}	
 	buildings_max_level_factor = 1.000
 }

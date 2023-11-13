@@ -1,6 +1,5 @@
 continents = {
-	TBD1
-	TBD2
-	TBD3
-	TBD4
+	TBD1(west)
+	TBD2(south)
+	Sindila
 }

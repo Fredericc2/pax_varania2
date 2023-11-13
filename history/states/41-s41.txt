@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = SSD
 		victory_points = {
-			7925 20
+			12258 20
 		}
 		buildings = {
 			infrastructure = 5
@@ -19,7 +19,7 @@ state = {
 	}
 
 	provinces = {
-	7925 7767 4569 7888 7906 1985 7845 7738 322
+	12258 6053 8295 5442 9924 7973 6234 11248 8865
 	}
 	buildings_max_level_factor = 1.000
 }

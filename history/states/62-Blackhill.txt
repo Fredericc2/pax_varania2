@@ -1,0 +1,25 @@
+state = {
+	id = 62
+	name = "Blackhill"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		owner = BLH
+		victory_points = {
+			2117 10
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = BLH
+	}
+
+	provinces={
+		2117 1672 1746 3893 3316 1574 2290 3594 2449 3105
+	}
+	buildings_max_level_factor = 1.000
+}

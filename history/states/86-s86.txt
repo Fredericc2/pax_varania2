@@ -1,0 +1,25 @@
+state = {
+	id = 86
+	name = "STATE_86"
+	state_category = town
+	manpower = 12000
+
+	history = {
+		owner = FDR
+		victory_points = {
+			2769 20
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = FDR
+	}
+
+	provinces={
+		7139 8446 1737 2769 1717 1733 10564 5262 
+	}
+	buildings_max_level_factor = 1.000
+}

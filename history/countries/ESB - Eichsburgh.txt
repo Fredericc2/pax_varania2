@@ -1,4 +1,4 @@
-capital = 3024
+capital = 11471
 
 # Starting tech
 set_technology = {
@@ -82,7 +82,7 @@ set_popularities = {
 	}
 }
 
-#create_country_leader = {
+create_country_leader = {
 	name = "Commander whatever the fuck"
 	desc = "."
 	picture = "gfx/leaders/EWD/Portrait_East_Wendia_Commander_X.dds"

@@ -1,4 +1,4 @@
-capital = 2509
+capital = 12553
 
 # Starting tech
 set_technology = {
@@ -54,17 +54,17 @@ set_convoys = 20
 
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = neutrality
 	last_election = "1946.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	democratic = 3
-	fascism = 79
-	communism = 1
-	neutrality = 17
+	democratic = 80
+	fascism = 2
+	communism = 5
+	neutrality = 13
 }
 
 1946.1.1 = {
@@ -75,18 +75,18 @@ set_popularities = {
 		elections_allowed = no
 	}
 	set_popularities = {
-		democratic = 3
-		fascism = 79
-		communism = 1
-		neutrality = 17
+		democratic = 80
+		fascism = 2
+		communism = 5
+		neutrality = 13
 	}
 }
 
 create_country_leader = {
-	name = "Reichsmarschall Jagd"
+	name = "Commander whatever the fuck"
 	desc = "."
-	picture = "gfx/leaders/EFS/Portrait_Eisenfront_Reichsmarschall_Jagd.dds"
-	ideology = nazism
+	picture = "gfx/leaders/EWD/Portrait_East_Wendia_Commander_X.dds"
+	ideology = despotism
 	traits = {
 		#
 	}

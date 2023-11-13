@@ -1,0 +1,25 @@
+state = {
+	id = 61
+	name = "STATE_61"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		owner = RVL
+		victory_points = {
+			1738 10
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = RVL
+	}
+
+	provinces={
+		1738 1757 2245 2299 2396 2601 3722 5557 5836 6014 6101 6133 6194 6384 6429 6727 6992 7156 7229 7334 7499 7567 7629 7638 7783 7793 7854 7995 8150 8163 8186 8248 8398 8662 8706 8744 8899 9172 9233 9295 9298 9540 9706 9846 10073 10111 10196 10378 10917 11164 11224 11323 11346 11557 11702 11793 12107 12124 12196 12245 12291 12403 
+	}
+	buildings_max_level_factor = 1.000
+}

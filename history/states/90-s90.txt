@@ -1,0 +1,25 @@
+state = {
+	id = 90
+	name = "STATE_90"
+	state_category = town
+	manpower = 12000
+
+	history = {
+		owner = ODR
+		victory_points = {
+			3881 30
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = ODR
+	}
+
+	provinces={
+		1927 3407 1677 2036 2166 3881
+	}
+	buildings_max_level_factor = 1.000
+}

@@ -7,7 +7,7 @@ state = {
 history = {
 		owner = ELU
 		victory_points = {
-			7639 10
+			7419 10
 		}
 		buildings = {
 			infrastructure = 5
@@ -19,7 +19,7 @@ history = {
 	}
 
 	provinces = {
-	7639 702 7460 2872 7687 7704 3279 7643 7515 7503 2403 3530 7568 5877
+	7419 6774 8853 3882 3523 12502 7393 4897 978 1029 9711 11575 12310 12365 11312
 	}
 	buildings_max_level_factor = 1.000
 }
