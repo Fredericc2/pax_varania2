@@ -1,0 +1,22 @@
+state = {
+	id = 103
+	name = "STATE_103"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		owner = RVL
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = RVL
+	}
+
+	provinces={
+		6101 9295 12107 6194 6014 8899 7629 12245
+	}
+	buildings_max_level_factor = 1.000
+}
