@@ -33,9 +33,6 @@
  FDR_neutrality:0 "Nirfok Loyalists"
  ODR_neutrality:0 "Oderic Estates"
  ILV_communism:0 "Ilvani Tribal Council"
-<<<<<<< HEAD
  AMA_neutrality:0 "Amaroa Valley Peasants"
  JIX_neutrality:0 "Principality of Jixiang"
-=======
- AMA_neutrality:0 "Amaroa Valley Peasants"
->>>>>>> 929402edb5fd6ecdf06c813ae493d0a20fb31986
+ DAI_neutrality:0 "Remnant of Daizhuang"

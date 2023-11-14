@@ -1,9 +1,20 @@
 state={
 	id=97
 	name="STATE_97"
+	history = {
+		owner = DAI
+		buildings = {
+			infrastructure = 5
+			arms_factory = 4
+			industrial_complex = 2
+			air_base = 0
+		}
+		add_core_of = DAI
+	}
 	provinces={
 		6836 8017 9816 9984 11483 11821 
 	}
+	add_core_of = DAI
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
