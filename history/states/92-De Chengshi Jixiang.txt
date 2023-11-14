@@ -1,0 +1,22 @@
+
+state={
+	id=92
+	name="STATE_92"
+	history = {
+		owner = JIX
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = JIX
+	}
+	provinces={
+		5877 5902 6831 8013 9775 10848 12214 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

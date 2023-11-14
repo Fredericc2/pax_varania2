@@ -1,0 +1,21 @@
+
+state={
+	id=93
+	name="STATE_93"
+	history = {
+		owner = JIX
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = JIX
+	}
+	provinces={
+		5921 6441 7183 8861 9737 10024 10951 11801 12342 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
