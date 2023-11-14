@@ -28,5 +28,9 @@ ATF = "countries/Antifu.txt"
 FDR = "countries/Nirfok.txt"
 ODR = "countries/Oderic.txt"
 ILV = "countries/Ilvan.txt"
+<<<<<<< HEAD
 AMA = "countries/Amaroa.txt"
 JIX = "countries/Principality of Jixiang"
+=======
+AMA = "countries/Amaroa.txt"
+>>>>>>> 929402edb5fd6ecdf06c813ae493d0a20fb31986
