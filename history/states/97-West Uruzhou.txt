@@ -1,13 +1,14 @@
 state={
 	id=97
 	name="STATE_97"
+	state_category = large_town
 	history = {
 		owner = DAI
 		buildings = {
-			infrastructure = 5
-			arms_factory = 4
-			industrial_complex = 2
-			air_base = 0
+			infrastructure = 7
+			arms_factory = 0
+			industrial_complex = 5
+			air_base = 4
 		}
 		add_core_of = DAI
 	}
@@ -15,7 +16,7 @@ state={
 		6836 8017 9816 9984 11483 11821 
 	}
 	add_core_of = DAI
-	manpower=0
+	manpower=923000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }
