@@ -1,14 +1,13 @@
-
 state={
 	id=96
 	name="STATE_96"
 	history = {
 		owner = DAI
 		buildings = {
-			infrastructure = 7
-			arms_factory = 0
-			industrial_complex = 5
-			air_base = 4
+			infrastructure = 5
+			arms_factory = 4
+			industrial_complex = 2
+			air_base = 0
 		}
 		add_core_of = DAI
 	}
@@ -16,7 +15,7 @@ state={
 		6584 7824 9406 10136 
 	}
 	add_core_of = DAI
-	manpower=0
+	manpower=382200
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }
