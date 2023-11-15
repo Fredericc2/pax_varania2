@@ -1,0 +1,14 @@
+state={
+	id=129
+	name="STATE_129"
+	history={
+		owner = SAN
+	}
+	add_core_of = SAN
+	provinces={
+		6827 6934 9693 10236 11263 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
