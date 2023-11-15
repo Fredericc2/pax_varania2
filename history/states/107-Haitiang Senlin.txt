@@ -1,14 +1,14 @@
 
 state={
-	id=92
-	name="STATE_92"
+	id=106
+	name="STATE_106"
 	history={
-		owner = JIX
+		owner = HAT
 	}
 	provinces={
-		5902 9737 10848 12214 
+		5960 7611 9765 11071 
 	}
-	add_core_of = JIX
+	add_core_of = HAT
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
