@@ -1,13 +1,13 @@
 state = {
-	id = 56
-	name = "STATE_56"
+	id = 113
+	name = "STATE_113"
 	state_category = town
 	manpower = 792400
 
 	history = {
 		owner = VKS
 		victory_points = {
-			7938 20
+			9342 20
 		}
 		buildings = {
 			infrastructure = 5
@@ -18,8 +18,8 @@ state = {
 		add_core_of = VKS
 	}
 
-	provinces = {
-		7938 11603 7268 10127 6987 6795 8359 8780 8842 6037 7307
-	}	
+	provinces={
+		11911 11196 7250 6040 9840 5602 8121 96349342 8379 10874
+	}
 	buildings_max_level_factor = 1.000
 }
