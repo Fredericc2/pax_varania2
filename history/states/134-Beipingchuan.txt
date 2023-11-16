@@ -1,0 +1,14 @@
+state={
+	id=134
+	name="STATE_134"
+	history={
+		owner = CHE
+	}
+	add_core_of = CHE
+	provinces={
+		8200 9980 10094 10922 11705 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
