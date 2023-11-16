@@ -1,14 +1,11 @@
 state = {
-	id = 137
-	name = "STATE_137"
+	id = 144
+	name = "STATE_144"
 	state_category = town
 	manpower = 12000
 
 	history = {
 		owner = PRI
-		victory_points = {
-			4922 20
-		}
 		buildings = {
 			infrastructure = 5
 			arms_factory = 1
@@ -19,7 +16,7 @@ state = {
 	}
 
 	provinces={
-		2866 1172 4922
+		6838 6003 11667 8047 8993 7320
 	}
 	buildings_max_level_factor = 1.000
 }
