@@ -1,0 +1,22 @@
+state = {
+	id = 133
+	name = "STATE_133"
+	state_category = town
+	manpower = 12000
+
+	history = {
+		owner = PRI
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = PRI
+	}
+
+	provinces={
+		7942 9355 6535 11496 5828 7848 7469 8067
+	}
+	buildings_max_level_factor = 1.000
+}

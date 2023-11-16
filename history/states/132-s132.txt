@@ -1,0 +1,22 @@
+state = {
+	id = 132
+	name = "STATE_132"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		owner = VKS
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = VKS
+	}
+
+	provinces={
+		8703 5832 7333 7578 7270 3616 11485 11345 9767 9606 2428 2709
+	}
+	buildings_max_level_factor = 1.000
+}

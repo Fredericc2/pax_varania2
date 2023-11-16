@@ -1,0 +1,22 @@
+state = {
+	id = 136
+	name = "STATE_136"
+	state_category = town
+	manpower = 12000
+
+	history = {
+		owner = PRI
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = PRI
+	}
+
+	provinces={
+		7066 6386 1540 12114 7893 11661 8716 5777 6329
+	}
+	buildings_max_level_factor = 1.000
+}
