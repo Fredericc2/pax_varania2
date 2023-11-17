@@ -1,0 +1,22 @@
+state = {
+	id = 158
+	name = "STATE_158"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		owner = AMA
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = AMA
+	}
+
+	provinces={
+		6624 6554 5587 9050 5372 918 7645 10328
+	}
+	buildings_max_level_factor = 1.000
+}
