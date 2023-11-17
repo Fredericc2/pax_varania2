@@ -1,0 +1,25 @@
+state = {
+	id = 162
+	name = "STATE_162"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		owner = AMS
+		victory_points = {
+			2339 15
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = AMS
+	}
+
+	provinces={
+		4908 5075 4772 5036 2339
+	}
+	buildings_max_level_factor = 1.000
+}

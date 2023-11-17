@@ -120,3 +120,7 @@ AMA = {
 	color = rgb { 195 215 85 }
 	color_ui = rgb { 195 215 85 }
 	}
+AMS = {
+	color = rgb { 40 40 90 }
+	color_ui = rgb { 40 40 90 }
+	}
