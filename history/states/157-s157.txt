@@ -1,0 +1,22 @@
+state = {
+	id = 157
+	name = "STATE_157"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		owner = ATF
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = ATF
+	}
+
+	provinces={
+		1532 1845 3211 1911 3244 1071 5939 3509 2831
+	}
+	buildings_max_level_factor = 1.000
+}
