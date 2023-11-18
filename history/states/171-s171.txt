@@ -1,0 +1,25 @@
+state = {
+	id = 171
+	name = "STATE_171"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		owner = LSN
+		victory_points = {
+		8650 15
+	}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = LSN
+	}
+
+	provinces={
+		8650 7551 7380 8537 9585
+	}
+	buildings_max_level_factor = 1.000
+}
