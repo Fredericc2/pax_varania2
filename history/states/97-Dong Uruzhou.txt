@@ -11,7 +11,7 @@ state={
 			air_base = 4
 		}
 		add_core_of = DAI
-	}
+		}
 	provinces={
 		6836 8017 9816 9984 11483 11821 
 	}

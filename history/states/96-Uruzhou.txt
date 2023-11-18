@@ -10,7 +10,7 @@ state={
 			air_base = 0
 		}
 		add_core_of = DAI
-	}
+}
 	provinces={
 		6584 7824 9406 10136 
 	}

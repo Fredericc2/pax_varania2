@@ -80,12 +80,11 @@ set_popularities = {
 	}
 }
 
-create_country_leader = {
-	name = "Placeholder"
-	desc = "."
+#create_country_leader = {
+	#name = "Placeholder"
+	#desc = "."
 	#picture = "gfx/leaders/KIL/Portrait_KIL_Jaccus.dds"
-	ideology = communism
-	traits = {
+	#traits = {
 		#
-	}
-}
+	#}
+#}
