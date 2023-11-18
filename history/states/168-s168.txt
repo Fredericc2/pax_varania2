@@ -1,0 +1,25 @@
+state = {
+	id = 168
+	name = "STATE_168"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		owner = KNK
+		victory_points = {
+			12560 25
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = KNK
+	}
+
+	provinces={
+		12560 12122 12138 12528 7221 8528 8160 8274 7556 8906 7474
+	}
+	buildings_max_level_factor = 1.000
+}
