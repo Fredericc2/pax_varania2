@@ -124,3 +124,19 @@ AMS = {
 	color = rgb { 40 40 90 }
 	color_ui = rgb { 40 40 90 }
 	}
+TPZ = {
+	color = rgb { 235 80 180 }
+	color_ui = rgb { 235 80 180 }
+	}
+LSN = {
+	color = rgb { 255 205 230 }
+	color_ui = rgb { 255 205 230 }
+	}
+KNK = {
+	color = rgb { 250 180 165 }
+	color_ui = rgb { 250 180 165 }
+	}
+KTP = {
+	color = rgb { 180 150 190 }
+	color_ui = rgb { 180 150 190 }
+	}
