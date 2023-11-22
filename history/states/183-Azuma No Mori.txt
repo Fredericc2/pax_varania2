@@ -1,0 +1,14 @@
+state={
+	id=183
+	name="STATE_183"
+	history={
+		owner = MNM
+	}
+	add_core_of = MNM
+	provinces={
+		4079 4175 4195 4220 4281 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
