@@ -1,0 +1,14 @@
+state={
+	id=173
+	name="STATE_173"
+	history={
+		owner = XNH
+	}
+	add_core_of = XNH
+	provinces={
+		1253 8315 9360 11720 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
