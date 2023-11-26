@@ -1,0 +1,14 @@
+state={
+	id=198
+	name="STATE_198"
+	history={
+		owner = ZHN
+	}
+	add_core_of = ZHN
+	provinces={
+		1612 2169 3790 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
