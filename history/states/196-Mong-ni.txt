@@ -1,0 +1,14 @@
+state={
+	id=196
+	name="STATE_196"
+	history={
+		owner = TAE
+	}
+	add_core_of = TAE
+	provinces={
+		5734 5822 8496 9812 12147 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
