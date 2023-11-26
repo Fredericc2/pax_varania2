@@ -1,0 +1,14 @@
+state={
+	id=191
+	name="STATE_191"
+	history={
+		owner = BND
+	}
+	add_core_of = BND
+	provinces={
+		6132 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
