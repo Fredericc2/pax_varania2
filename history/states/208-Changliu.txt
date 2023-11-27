@@ -1,0 +1,14 @@
+state={
+	id=208
+	name="STATE_208"
+	history={
+		owner = WEI
+	}
+	add_core_of = WEI
+	provinces={
+		2549 2766 3072 3892 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
