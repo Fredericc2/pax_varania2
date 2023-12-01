@@ -2,9 +2,9 @@ state={
 	id=192
 	name="STATE_192"
 	history={
-		owner = TAE
+		owner = SEO
 	}
-	add_core_of = TAE
+	add_core_of = SEO
 	provinces={
 		7421 9808 12535 12559 
 	}
