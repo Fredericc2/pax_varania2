@@ -140,3 +140,7 @@ KTP = {
 	color = rgb { 180 150 190 }
 	color_ui = rgb { 180 150 190 }
 	}
+HAA = {
+	color = rgb { 130 245 100 }
+	color_ui = rgb { 130 245 100 }
+	}
