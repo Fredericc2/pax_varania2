@@ -1,0 +1,25 @@
+state = {
+	id = 210
+	name = "STATE_210"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		owner = FEL
+		victory_points = {
+		1019 10
+	}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = FEL
+	}
+
+	provinces={
+		1019 1262 904 1381 740 1062 1192
+	}
+	buildings_max_level_factor = 1.000
+}

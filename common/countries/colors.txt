@@ -140,3 +140,15 @@ KTP = {
 	color = rgb { 180 150 190 }
 	color_ui = rgb { 180 150 190 }
 	}
+HAA = {
+	color = rgb { 130 245 100 }
+	color_ui = rgb { 130 245 100 }
+	}
+FEL = {
+	color = rgb { 150 220 50 }
+	color_ui = rgb { 150 220 50 }
+	}
+HOI = {
+	color = rgb { 250 130 10 }
+	color_ui = rgb { 250 130 10 }
+	}
