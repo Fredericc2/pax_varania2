@@ -1,0 +1,22 @@
+state = {
+	id = 237
+	name = "STATE_237"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		owner = HOI
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = HOI
+	}
+
+	provinces={
+		2654 2777 4558 3678 5236 1794
+	}
+	buildings_max_level_factor = 1.000
+}
