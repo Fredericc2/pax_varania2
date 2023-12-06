@@ -1,0 +1,22 @@
+state = {
+	id = 238
+	name = "STATE_238"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		owner = VAR
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = VAR
+	}
+
+	provinces={
+		6627 11458 5702 6123
+	}
+	buildings_max_level_factor = 1.000
+}
