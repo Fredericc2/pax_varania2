@@ -1,0 +1,22 @@
+state = {
+	id = 222
+	name = "STATE_222"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		owner = FEL
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = FEL
+	}
+
+	provinces={
+		757 912 1462 1519 1026 1166 793 1441 7289 6739 12132
+	}
+	buildings_max_level_factor = 1.000
+}
