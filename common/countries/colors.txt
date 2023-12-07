@@ -152,3 +152,7 @@ HOI = {
 	color = rgb { 250 130 10 }
 	color_ui = rgb { 250 130 10 }
 	}
+ATH = {
+	color = rgb { 240 200 60 }
+	color_ui = rgb { 240 200 60 }
+	}
