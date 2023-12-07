@@ -1,0 +1,25 @@
+state = {
+	id = 260
+	name = "STATE_260"
+	state_category = town
+	manpower = 12000
+
+	history = {
+		owner = A2F
+		victory_points = {
+			4575 10
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = A2F
+	}
+
+	provinces={
+		4575 3103 4634 4678 4911 4660 4605 4570 4982
+	}
+	buildings_max_level_factor = 1.000
+}

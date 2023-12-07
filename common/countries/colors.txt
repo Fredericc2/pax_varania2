@@ -156,3 +156,11 @@ ATH = {
 	color = rgb { 240 200 60 }
 	color_ui = rgb { 240 200 60 }
 	}
+A2F = {
+	color = rgb { 75 130 190 }
+	color_ui = rgb { 75 130 190 }
+	}
+KAA = {
+	color = rgb { 135 200 240 }
+	color_ui = rgb { 135 200 240 }
+	}
