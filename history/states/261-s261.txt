@@ -1,0 +1,25 @@
+state = {
+	id = 261
+	name = "STATE_261"
+	state_category = town
+	manpower = 12000
+
+	history = {
+		owner = KAA
+		victory_points = {
+			5467 25
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = KAA
+	}
+
+	provinces={
+		5467 7288 868 9011 10813 1086 1073 6956 1399 1352 6649 6684
+	}
+	buildings_max_level_factor = 1.000
+}
