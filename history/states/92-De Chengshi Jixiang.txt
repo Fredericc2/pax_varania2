@@ -4,11 +4,11 @@ state={
 	name="STATE_92"
 	history={
 		owner = JIX
+		add_core_of = JIX
 	}
 	provinces={
 		5902 9737 10848 12214 
 	}
-	add_core_of = JIX
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

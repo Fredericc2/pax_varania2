@@ -3,8 +3,8 @@ state={
 	name="STATE_239"
 	history={
 		owner = KIT
+		add_core_of = KIT
 	}
-	add_core_of = KIT
 	provinces={
 		4263 4387 4424 
 	}

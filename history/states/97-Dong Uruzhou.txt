@@ -4,18 +4,17 @@ state={
 	state_category = large_town
 	history = {
 		owner = DAI
+		add_core_of = DAI
 		buildings = {
 			infrastructure = 7
 			arms_factory = 0
 			industrial_complex = 5
 			air_base = 4
 		}
-		add_core_of = DAI
 		}
 	provinces={
 		6836 8017 9816 9984 11483 11821 
 	}
-	add_core_of = DAI
 	manpower=923000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

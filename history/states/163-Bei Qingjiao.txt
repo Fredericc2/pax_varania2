@@ -3,8 +3,8 @@ state={
 	name="STATE_163"
 	history={
 		owner = QIN
+		add_core_of = QIN
 	}
-	add_core_of = QIN
 	provinces={
 		8023 9460 11610 
 	}

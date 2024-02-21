@@ -3,8 +3,8 @@ state={
 	name="STATE_187"
 	history={
 		owner = MNM
+		add_core_of = MNM
 	}
-	add_core_of = MNM
 	provinces={
 		4016 4081 4381 4415 
 	}

@@ -2,14 +2,14 @@
 state={
 	id=124
 	name="STATE_124"
-	history={
-		owner = SAN
-	}
-	add_core_of = SAN
-	provinces={
-		989 1360 5942 9326 10594 
-	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
+	history={
+		owner = SAN
+		add_core_of = SAN
+	}
+	provinces={
+		989 1360 5942 9326 10594 
+	}
 }
