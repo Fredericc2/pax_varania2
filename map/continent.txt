@@ -1,12 +1,7 @@
 continents = {
-<<<<<<< HEAD
 	TBD1(west)
 	TBD2(south)
-	Sindila
-=======
-	TBD1
-	TBD2
-	TBD3
-	TBD4
->>>>>>> 929402edb5fd6ecdf06c813ae493d0a20fb31986
+	TBD3(east)
+	Sindila(big crete)
+	Trysland(north isle)
 }
