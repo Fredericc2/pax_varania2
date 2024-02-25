@@ -1,0 +1,22 @@
+state={
+	id=263
+	name="STATE_263"
+	history={
+		owner = YAZ
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 6
+			air_base = 4
+
+		}
+		add_core_of = YAZ
+
+	}
+	provinces={
+		8294 9123 9183 10452 11629 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

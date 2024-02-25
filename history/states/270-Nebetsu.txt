@@ -1,0 +1,14 @@
+state={
+	id=270
+	name="STATE_270"
+	history={
+		owner = ASU
+		add_core_of = ASU
+		}
+	provinces={
+		4002 4055 4293 4408 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
