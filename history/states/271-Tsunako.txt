@@ -1,0 +1,15 @@
+
+state={
+	id=271
+	name="STATE_271"
+	history={
+		owner = TSU
+		add_core_of = TSU
+		}
+	provinces={
+		4013 4111 4145 4369 4407 4433 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
