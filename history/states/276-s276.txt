@@ -1,14 +1,11 @@
 state = {
-	id = 75
-	name = "Skyrona"
+	id = 276
+	name = "STATE_276"
 	state_category = town
 	manpower = 792400
 
 	history = {
 		owner = SKR
-		victory_points = {
-			12562 35
-		}
 		buildings = {
 			infrastructure = 5
 			arms_factory = 1
@@ -19,7 +16,7 @@ state = {
 	}
 
 	provinces = {
-		12562 12572 10908 11583 6426 9190 11843 11915 7876 10909 9193 12519 9794
+		1298 1149 11666 9563 6349 12084 10892 8189 8371 12018
 	}
 	buildings_max_level_factor = 1.000
 }
