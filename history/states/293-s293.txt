@@ -1,0 +1,22 @@
+state = {
+	id = 293
+	name = "STATE_293"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		owner = SKR
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = SKR
+	}
+
+	provinces = {
+		8868 10759 1768 12476 6758 11592 7467 11253
+	}
+	buildings_max_level_factor = 1.000
+}
