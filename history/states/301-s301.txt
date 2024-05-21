@@ -1,0 +1,22 @@
+state = {
+	id = 301
+	name = "STATE_301"
+	state_category = town
+	manpower = 7400
+
+	history = {
+		owner = FDR
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = FDR
+	}
+
+	provinces={
+		4517 4496 4520 4495 4481 4448 4454 4498
+	}
+	buildings_max_level_factor = 1.000
+}
