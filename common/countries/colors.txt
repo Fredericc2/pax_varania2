@@ -164,3 +164,15 @@ KAA = {
 	color = rgb { 135 200 240 }
 	color_ui = rgb { 135 200 240 }
 	}
+STS = {
+	color = rgb { 255 235 225 }
+	color_ui = rgb { 255 235 225 }
+	}
+NJH = {
+	color = rgb { 75 50 5 }
+	color_ui = rgb { 75 50 5 }
+	}
+MZS = {
+	color = rgb { 255 200 220 }
+	color_ui = rgb { 255 200 220 }
+	}
