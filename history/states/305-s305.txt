@@ -1,0 +1,22 @@
+state = {
+	id = 305
+	name = "STATE_305"
+	state_category = town
+	manpower = 7400
+
+	history = {
+		owner = NPT
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = NPT
+	}
+
+	provinces={
+		7385 8493 10238 7309
+	}
+	buildings_max_level_factor = 1.000
+}

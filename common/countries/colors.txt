@@ -176,3 +176,24 @@ MZS = {
 	color = rgb { 255 200 220 }
 	color_ui = rgb { 255 200 220 }
 	}
+LUU = {
+	color = rgb { 105 215 240 }
+	color_ui = rgb { 105 215 240 }
+	}
+NPT = {
+	color = rgb { 215 80 75 }
+	color_ui = rgb { 215 80 75 }
+	}
+FSD = {
+	color = rgb { 210 45 100 }
+	color_ui = rgb { 210 45 100 }
+	}
+KKS = {
+	color = rgb { 250 130 195 }
+	color_ui = rgb { 250 130 195 }
+	}
+ADB = {
+	color = rgb { 70 135 200 }
+	color_ui = rgb { 70 135 200 }
+	}	
+
