@@ -196,4 +196,8 @@ ADB = {
 	color = rgb { 70 135 200 }
 	color_ui = rgb { 70 135 200 }
 	}	
+DRJ = {
+	color = rgb { 70 30 215 }
+	color_ui = rgb { 70 30 215 }
+	}
 
