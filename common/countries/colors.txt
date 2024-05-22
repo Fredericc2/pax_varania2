@@ -200,4 +200,7 @@ DRJ = {
 	color = rgb { 70 30 215 }
 	color_ui = rgb { 70 30 215 }
 	}
-
+DRJ = {
+	color = rgb { 200 250 95 }
+	color_ui = rgb { 200 250 95 }
+	}
