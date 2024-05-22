@@ -5,18 +5,18 @@ state = {
 	manpower = 7400
 
 	history = {
-		owner = KKS
+		owner = FSD
 		buildings = {
 			infrastructure = 5
 			arms_factory = 1
 			industrial_complex = 3
 			air_base = 4
 		}
-		add_core_of = KKS
+		add_core_of = FSD
 	}
 
 	provinces={
-		2985 2848 1609 3232 3388 1785 4873 9861 5209
+		10936 2705 9281 8210
 	}
 	buildings_max_level_factor = 1.000
 }
