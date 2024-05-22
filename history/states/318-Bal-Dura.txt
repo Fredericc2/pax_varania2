@@ -1,0 +1,14 @@
+state={
+	id=318
+	name="STATE_318"
+	history={
+		owner = HAM
+		add_core_of = HAM
+	}
+	provinces={
+		6629 7021 9632 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

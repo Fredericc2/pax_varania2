@@ -1,0 +1,14 @@
+state={
+	id=316
+	name="STATE_316"
+	history={
+		owner = KAR
+		add_core_of = KAR
+	}
+	provinces={
+		4766 9088 12445 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
