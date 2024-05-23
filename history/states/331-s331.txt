@@ -1,22 +1,22 @@
 state = {
-	id = 303
-	name = "STATE_303"
+	id = 331
+	name = "STATE_331"
 	state_category = town
 	manpower = 7400
 
 	history = {
-		owner = NJH
+		owner = MZS
 		buildings = {
 			infrastructure = 5
 			arms_factory = 1
 			industrial_complex = 3
 			air_base = 4
 		}
-		add_core_of = NJH
+		add_core_of = MZS
 	}
 
 	provinces={
-		6008 12206 11536 3350 4789 5331 5069 1956 4583 3835
+		3726 2987 3696 3965
 	}
 	buildings_max_level_factor = 1.000
 }
