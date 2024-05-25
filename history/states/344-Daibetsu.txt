@@ -1,0 +1,14 @@
+state={
+	id=344
+	name="STATE_344"
+	history={
+		owner = SEN
+		add_core_of = SEN
+	}
+	provinces={
+		6564 9192 10338 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

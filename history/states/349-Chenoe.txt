@@ -1,0 +1,14 @@
+state={
+	id=349
+	name="STATE_349"
+	history={
+		owner = KLA
+		add_core_of = KLA
+	}
+	provinces={
+		7428 11599 11943 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
