@@ -1,0 +1,14 @@
+state={
+	id=362
+	name="STATE_362"
+	history={
+		owner = TIM
+		add_core_of = TIM
+	}
+	provinces={
+		6578 6825 8711 11304 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

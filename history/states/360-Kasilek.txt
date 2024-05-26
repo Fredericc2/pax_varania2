@@ -1,0 +1,14 @@
+state={
+	id=360
+	name="STATE_360"
+	history={
+		owner = SND
+		add_core_of = SND
+	}
+	provinces={
+		6933 8255 10376 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

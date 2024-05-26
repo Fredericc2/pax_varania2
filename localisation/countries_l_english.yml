@@ -77,3 +77,6 @@
  STV_neutrality:0 "Stynnval"
  SEN_fascism:0 "Sencho Junta"
  KLA_fascism:0 "Kalinski State"
+ KAH_communism:0 "Kahlezstan Popular Union"
+ SND_democratic:0 "Sendere States"
+ TIM_democratic:0 "Timurzstan Confederation"

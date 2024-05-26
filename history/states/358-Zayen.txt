@@ -1,0 +1,14 @@
+state={
+	id=358
+	name="STATE_358"
+	history={
+		owner = KAH
+		add_core_of = KAH
+	}
+	provinces={
+		5781 8602 9745 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
