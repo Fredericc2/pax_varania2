@@ -1,0 +1,14 @@
+state={
+	id=369
+	name="STATE_369"
+	history={
+		owner = ZHO
+		add_core_of = ZHO
+	}
+	provinces={
+		8113 8365 8422 10222 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

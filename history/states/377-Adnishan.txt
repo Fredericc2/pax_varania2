@@ -1,0 +1,14 @@
+state={
+	id=377
+	name="STATE_377"
+	history={
+		owner = ADN
+		add_core_of = ADN
+	}
+	provinces={
+		5522 7504 10283 10850 12415 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,14 @@
+state={
+	id=376
+	name="STATE_376"
+	history={
+		owner = CHF
+		add_core_of = CHF
+	}
+	provinces={
+		6536 6669 7016 11678 11951 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

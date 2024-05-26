@@ -1,0 +1,14 @@
+state={
+	id=378
+	name="STATE_378"
+	history={
+		owner = BYN
+		add_core_of = BYN
+	}
+	provinces={
+		5849 10768 10826 11329 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
