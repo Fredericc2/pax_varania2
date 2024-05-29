@@ -1,0 +1,22 @@
+state = {
+	id = 382
+	name = "STATE_382"
+	state_category = town
+	manpower = 7400
+
+	history = {
+		owner = SWA
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = SWA
+	}
+
+	provinces={
+		8073 6903 8158 6013 10729 10198 6409
+	}
+	buildings_max_level_factor = 1.000
+}

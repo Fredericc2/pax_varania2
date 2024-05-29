@@ -169,8 +169,8 @@ STS = {
 	color_ui = rgb { 255 235 225 }
 	}
 NJH = {
-	color = rgb { 75 50 5 }
-	color_ui = rgb { 75 50 5 }
+	color = rgb { 95 65 5 }
+	color_ui = rgb { 95 65 5 }
 	}
 MZS = {
 	color = rgb { 255 200 220 }
@@ -189,8 +189,8 @@ FSD = {
 	color_ui = rgb { 210 45 100 }
 	}
 KKS = {
-	color = rgb { 250 130 195 }
-	color_ui = rgb { 250 130 195 }
+	color = rgb { 210 115 190 }
+	color_ui = rgb { 210 115 190 }
 	}
 ADB = {
 	color = rgb { 70 135 200 }
@@ -200,7 +200,11 @@ DRJ = {
 	color = rgb { 70 30 215 }
 	color_ui = rgb { 70 30 215 }
 	}
-DRJ = {
+STV = {
 	color = rgb { 200 250 95 }
 	color_ui = rgb { 200 250 95 }
+	}
+SWA = {
+	color = rgb { 230 145 85 }
+	color_ui = rgb { 230 145 85 }
 	}

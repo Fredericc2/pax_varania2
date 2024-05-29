@@ -1,0 +1,25 @@
+state = {
+	id = 380
+	name = "STATE_380"
+	state_category = town
+	manpower = 7400
+
+	history = {
+		owner = SWA
+		victory_points = {
+			9567 40
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = SWA
+	}
+
+	provinces={
+		9657 6186 1515 1072 807 9124 7691 10433
+	}
+	buildings_max_level_factor = 1.000
+}

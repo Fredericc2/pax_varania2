@@ -1,0 +1,22 @@
+state = {
+	id = 402
+	name = "STATE_402"
+	state_category = town
+	manpower = 7400
+
+	history = {
+		owner = KKS
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = KKS
+	}
+
+	provinces={
+		7355 9383 7151 9104 6761 5817
+	}
+	buildings_max_level_factor = 1.000
+}
