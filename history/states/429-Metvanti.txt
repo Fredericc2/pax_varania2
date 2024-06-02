@@ -1,16 +1,12 @@
-
 state={
-	id=423
-	name="STATE_423"
-
+	id=429
+	name="STATE_429"
 	history={
-		owner = STG
-		add_core_of = STG
-
+		owner = SYV
+		add_core_of = SYV
 	}
-
 	provinces={
-		1665 5114 5313 
+		2510 5752 11956 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
