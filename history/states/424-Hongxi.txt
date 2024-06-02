@@ -1,16 +1,12 @@
-
 state={
-	id=249
-	name="STATE_249"
-
+	id=424
+	name="STATE_424"
 	history={
-		owner = KIT
-		add_core_of = KIT
-
+		owner = ZHN
+		add_core_of = ZHN
 	}
-
 	provinces={
-		2009 4728 4810 5007 5253 
+		1793 5102 5325 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
