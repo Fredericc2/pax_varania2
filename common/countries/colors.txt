@@ -208,3 +208,23 @@ SWA = {
 	color = rgb { 230 145 85 }
 	color_ui = rgb { 230 145 85 }
 	}
+DJS = {
+	color = rgb { 100 165 205 }
+	color_ui = rgb { 100 165 205 }
+	}
+AUK = {
+	color = rgb { 125 95 255 }
+	color_ui = rgb { 125 95 255 }
+	}
+OSL = {
+	color = rgb { 230 45 55 }
+	color_ui = rgb { 230 45 55 }
+	}
+PCZ = {
+	color = rgb { 75 190 200 }
+	color_ui = rgb { 75 190 200 }
+	}
+PRV = {
+	color = rgb { 230 45 55 }
+	color_ui = rgb { 230 45 55 }
+	}

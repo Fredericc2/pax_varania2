@@ -1,0 +1,25 @@
+state = {
+	id = 431
+	name = "STATE_431"
+	state_category = town
+	manpower = 7400
+
+	history = {
+		owner = OSL
+		victory_points = {
+			3503 5
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = OSL
+	}
+
+	provinces={
+		3503 3296 3109 2983 2261 2721 2908 2815 2657
+	}
+	buildings_max_level_factor = 1.000
+}

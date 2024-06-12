@@ -1,0 +1,25 @@
+state = {
+	id = 434
+	name = "STATE_434"
+	state_category = town
+	manpower = 7400
+
+	history = {
+		owner = PRV
+		victory_points = {
+			4478 15
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = PRV
+	}
+
+	provinces={
+		4478 4483 4459 5786 9610 4497 5733 4538 6686 4480
+	}
+	buildings_max_level_factor = 1.000
+}

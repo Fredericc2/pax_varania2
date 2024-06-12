@@ -1,0 +1,25 @@
+state = {
+	id = 432
+	name = "STATE_432"
+	state_category = town
+	manpower = 7400
+
+	history = {
+		owner = AUK
+		victory_points = {
+			2828 15
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = AUK
+	}
+
+	provinces={
+		2828 3673 3158 5535 2082 2092 1821 2125
+	}
+	buildings_max_level_factor = 1.000
+}
