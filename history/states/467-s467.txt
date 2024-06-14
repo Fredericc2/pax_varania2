@@ -1,22 +1,22 @@
 state = {
-	id = 117
-	name = "STATE_117"
+	id = 467
+	name = "467"
 	state_category = town
 	manpower = 792400
 
 	history = {
-
+		
 		buildings = {
 			infrastructure = 5
 			arms_factory = 1
 			industrial_complex = 3
 			air_base = 4
 		}
-
+		
 	}
 
 	provinces={
-		11638 7899 10894 8026 11796 11007 5373 7947
+		4078 4205 4279 4322 4370 4127 4192 4117 4077 4196 4141 4319
 	}
 	buildings_max_level_factor = 1.000
 }
