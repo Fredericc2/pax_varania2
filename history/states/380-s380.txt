@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = SWA
 		victory_points = {
-			9567 40
+			9657 40
 		}
 		buildings = {
 			infrastructure = 5

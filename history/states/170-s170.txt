@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = KTP
 		victory_points = {
-			12008 15
+			10634 15
 		}
 		buildings = {
 			infrastructure = 5
