@@ -92,4 +92,4 @@ OSL = "countries/Ošuli.txt"
 PCZ = "countries/Paczidi.txt"
 PRV = "countries/Pravam.txt"
 DTH = "countries/Drethan.txt"
-
+ARD = "countries/Ardonia.txt"

@@ -1,12 +1,13 @@
+
 state={
-	id=409
-	name="STATE_409"
+	id=477
+	name="STATE_477"
 	history={
-		owner = SEN
-		add_core_of = SEN
+		owner = ARD
+		add_core_of = ARD
 	}
 	provinces={
-		1905 9331 9643 10188 
+		1426 8518 8978 12542 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
