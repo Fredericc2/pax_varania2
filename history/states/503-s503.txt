@@ -1,0 +1,22 @@
+state = {
+	id = 503
+	name = "503"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		
+	}
+
+	provinces={
+		7732 11525 962 1269 931 770 1040
+	}
+	buildings_max_level_factor = 1.000
+}
