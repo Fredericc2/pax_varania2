@@ -120,7 +120,7 @@ AMS = {
 	color = rgb { 40 40 90 }
 	color_ui = rgb { 40 40 90 }
 	}
-TPZ = {
+ZYL = {
 	color = rgb { 235 80 180 }
 	color_ui = rgb { 235 80 180 }
 	}
