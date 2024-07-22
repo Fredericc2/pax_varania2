@@ -1,6 +1,6 @@
 state = {
-	id = 486
-	name = "486"
+	id = 554
+	name = "554"
 	state_category = town
 	manpower = 792400
 
@@ -16,7 +16,7 @@ state = {
 	}
 
 	provinces={
-		3563 3961 2292 1967 3031 1544
+		3009 2864 6816 9584 3254 3355 1735 2781 3480 2269 2653 2517 3437 2585 2205
 	}
 	buildings_max_level_factor = 1.000
 }
