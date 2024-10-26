@@ -1,0 +1,22 @@
+state = {
+	id = 588
+	name = "588"
+	state_category = town
+	manpower = 792400
+
+	history = {
+		
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 4
+		}
+		
+	}
+
+	provinces={
+		2715 12270 12372 10972 12292 10419 7459 3267 6811 11199 5547 6776
+	}
+	buildings_max_level_factor = 1.000
+}
