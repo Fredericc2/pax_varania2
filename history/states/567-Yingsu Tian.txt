@@ -1,0 +1,14 @@
+state={
+	id=567
+	name="STATE_567"
+	history={
+		owner = YTC
+		add_core_of = YTC
+	}
+	provinces={
+		1601 1644 2075 2093 2252 2420 2433 2697 2818 2900 2907 3102 3135 3277 3401 3674 3721 3761 3814 3864 3930 5433 5705 6151 6842 7103 8175 8310 8837 9043 9305 10805 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

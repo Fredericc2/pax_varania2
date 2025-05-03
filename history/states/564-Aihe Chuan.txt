@@ -1,0 +1,15 @@
+
+state={
+	id=564
+	name="STATE_564"
+	history={
+		owner = ACC
+		add_core_of = ACC
+	}
+	provinces={
+		1752 1843 2374 2387 2955 2977 3187 3699 3732 3827 4999 5047 5099 5617 5974 7135 7703 7736 7987 8680 9448 9713 9752 9834 10043 10104 10262 10472 10856 11640 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

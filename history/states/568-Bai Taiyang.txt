@@ -1,0 +1,14 @@
+state={
+	id=568
+	name="STATE_568"
+	history={
+		owner = BTC
+		add_core_of = BTC
+	}
+	provinces={
+		1557 1691 1802 1835 2091 2246 2719 2767 3143 3420 3438 3679 3689 3948 4640 4847 4907 5027 5157 5160 9989 10989 11210 11440 11795 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

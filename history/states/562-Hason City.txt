@@ -1,0 +1,14 @@
+state={
+	id=562
+	name="STATE_562"
+	history={
+		owner = HAC
+		add_core_of = HAC
+	}
+	provinces={
+		8441 8841 12558 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

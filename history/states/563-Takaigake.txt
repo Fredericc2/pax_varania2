@@ -1,0 +1,14 @@
+state={
+	id=563
+	name="STATE_563"
+	history={
+		owner = TGC
+		add_core_of = TGC
+	}
+	provinces={
+		1797 1974 4875 5146 5238 6656 6692 8024 9251 10724 11765 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
