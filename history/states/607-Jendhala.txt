@@ -1,0 +1,14 @@
+state={
+	id=607
+	name="STATE_607"
+	history={
+		owner = JEN
+		add_core_of = JEN
+	}
+	provinces={
+		5387 8479 8500 8977 9264 9595 10384 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,14 @@
+state={
+	id=605
+	name="STATE_605"
+	history={
+		owner = DHA
+		add_core_of = DHA
+	}
+	provinces={
+		5757 6725 7418 10138 10289 11683 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,14 @@
+state={
+	id=610
+	name="STATE_610"
+	history={
+		owner = ORR
+		add_core_of = ORR
+	}
+	provinces={
+		4023 4062 4083 4335 4346 4362 4382 4403 4409 6566 6735 8111 9358 10122 10614 10755 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

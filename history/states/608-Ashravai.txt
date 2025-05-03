@@ -1,0 +1,14 @@
+state={
+	id=608
+	name="STATE_608"
+	history={
+		owner = ASR
+		add_core_of = ASR
+	}
+	provinces={
+		6751 7325 8618 9269 10458 10575 12048 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,14 @@
+state={
+	id=606
+	name="STATE_606"
+	history={
+		owner = PRY
+		add_core_of = PRY
+	}
+	provinces={
+		6201 6312 6736 8542 9599 10017 10182 12046 12081 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
