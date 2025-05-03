@@ -59,10 +59,10 @@ set_politics = {
 }
 
 set_popularities = {
-	democratic = 20
+	democratic = 10
 	fascism = 0
-	communism = 55
-	neutrality = 45
+	communism = 50
+	neutrality = 40
 }
 
 1946.1.1 = {
@@ -73,10 +73,10 @@ set_popularities = {
 		elections_allowed = no
 	}
 	set_popularities = {
-		democratic = 20
+		democratic = 10
 		fascism = 0
-		communism = 55
-		neutrality = 45
+		communism = 50
+		neutrality = 40
 	}
 }
 
